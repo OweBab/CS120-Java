@@ -4,7 +4,6 @@ class Assignment2C
     {
         double num = 127.5192683;
 
-        System.out.printf("Number = %.7f\n", num);
         System.out.printf("%-16s%.1f\n", "One decimal", num);
         System.out.printf("%-16s%.2f\n", "Two decimals", num);
         System.out.printf("%-16s%.3f\n", "Three decimals", num);
