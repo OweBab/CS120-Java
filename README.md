@@ -4,6 +4,11 @@ My coursework for CS 120 (introductory Java). Each program is a standalone
 `.java` file with its own `main` method, organized by assignment. There is
 also a Conway's Game of Life capstone project.
 
+## Technologies
+
+* Java (JDK 21)
+* Standard library only (`java.util.Scanner`, `java.util.Random`) — no external dependencies
+
 ## Contents
 
 | Folder         | Files                                              | Topics                                                      |
